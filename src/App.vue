@@ -13,7 +13,7 @@
         <router-link to="/seller">商家</router-link>
       </div>
       <div class="tab-item">
-        <router-link to="/learns">练习</router-link>
+        <router-link to="/learns">崽崽练习</router-link>
       </div>
     </div>
     <keep-alive>
