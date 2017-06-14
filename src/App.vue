@@ -12,6 +12,9 @@
       <div class="tab-item">
         <router-link to="/seller">商家</router-link>
       </div>
+      <div class="tab-item">
+        <router-link to="/learns">练习</router-link>
+      </div>
     </div>
     <keep-alive>
       <router-view :seller="seller"></router-view>
